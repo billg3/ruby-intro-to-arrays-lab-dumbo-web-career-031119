@@ -3,7 +3,4 @@ array = []
 return array 
 end 
 
-array_with_two_elements()
-x= ["a", "c"]
-return x 
-end 
+
