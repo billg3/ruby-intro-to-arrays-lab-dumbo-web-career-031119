@@ -9,5 +9,5 @@ x= ["a", "c"]
 return x 
 end 
 
-def first_element(t)
+def first_element()
 ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
