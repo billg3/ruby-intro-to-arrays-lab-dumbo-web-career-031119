@@ -5,8 +5,8 @@ end
 end 
 
 array_with_two_elements()
-array = ["a", "c"]
-return array 
+x= ["a", "c"]
+return x 
 end 
 
 end 
