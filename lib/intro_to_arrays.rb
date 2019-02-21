@@ -9,5 +9,6 @@ x= ["a", "c"]
 return x 
 end 
 
-def first_element("Welcome to New York")
-[]
+def first_element(array)
+  array[0]
+end
