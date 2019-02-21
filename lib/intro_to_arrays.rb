@@ -16,3 +16,6 @@ end
 def third_element(array)
   array [2]
 end 
+
+def length_of_array 
+  array 
